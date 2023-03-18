@@ -1,3 +1,3 @@
 # eye-movement
 ## Exercise on eye movement
-<img src= "" width= '300'/>
+<img src= "twoeyes.png" width= '300'/>
